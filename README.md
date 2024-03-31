@@ -28,7 +28,7 @@ The Iris dataset is a classic dataset in the field of machine learning and stati
    pip install pandas numpy matplotlib seaborn
 3. Run the Jupyter notebook:
    ```bash
-   jupyter notebook iris_dataset_analysis.ipynb
+   jupyter notebook IrisAnalysis.ipynb
 Follow the instructions in the notebook to perform data analysis and visualization on the Iris dataset.
 
 ## Results
